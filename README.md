@@ -11,23 +11,7 @@ ADD-UNet: An Efficient and Accurate Network for Cardiac MRI Segmentation to Assi
 
 ## 📜 Abstract
 
-            Duchenne Muscular Dystrophy (DMD) is an X-linked genetic muscle
-            disorder characterized by progressive degeneration of muscle fibers 
-            and is often accompanied by cardiac complications. Therefore, 
-            timely and accurate assessment of cardiac structure and 
-            function is crucial for personalized treatment and disease management.
-            Manual delineation of cardiac structures is labor-intensive and subject 
-            to inter-observer variability. To address this, we propose ADD-UNet, an
-            efficient convolution-attention network that captures both local and global 
-            features. Our network incorporates a Lossless Downsampling Block (LDB)
-            for multi-frequency feature aggregation, a Global Context Fusion (GCF) block
-            for multi-scale feature integration, and a Feature Bridge (FB) block group 
-            to optimize gradient flow between adjacent layers. The model is trained on 
-            the ACDC dataset and externally validated on 40 DMD patient CMRs from the
-            Chinese PLA General Hospital. Experimental results demonstrate that ADD-UNet 
-            achieves state-of-the-art performance on both the ACDC and DMD datasets, 
-            with mDSC scores of 92.86% and 91.83%, outperforming the previous best method MSVM-UNet 
-            by 0.65% and 0.85%, respectively.
+Duchenne Muscular Dystrophy (DMD) is an X-linked genetic muscle disorder characterized by progressive degeneration of muscle fibers and is often accompanied by cardiac complications. Therefore, timely and accurate assessment of cardiac structure and function is crucial for personalized treatment and disease management. Manual delineation of cardiac structures is labor-intensive and subject to inter-observer variability. To address this, we propose ADD-UNet, an efficient convolution-attention network that captures both local and global features. Our network incorporates a Lossless Downsampling Block (LDB) for multi-frequency feature aggregation, a Global Context Fusion (GCF) block for multi-scale feature integration, and a Feature Bridge (FB) block group to optimize gradient flow between adjacent layers. The model is trained on the ACDC dataset and externally validated on 40 DMD patient CMRs from the Chinese PLA General Hospital. Experimental results demonstrate that ADD-UNet achieves state-of-the-art performance on both the ACDC and DMD datasets, with mDSC scores of 92.86% and 91.83%, outperforming the previous best method MSVM-UNet by 0.65% and 0.85%, respectively.
 
 ## 👨‍⚕️ ADD-UNet
 Overall pipeline of the model architecture of ADD-UNet and its modules.
