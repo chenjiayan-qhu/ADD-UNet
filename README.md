@@ -5,8 +5,16 @@
 
 
 <h1 align="center">
-ADD-UNet: An Efficient and Accurate Network for Cardiac MRI Segmentation to Assist Duchenne Muscular Dystrophy Diagnosis
+ADD-UNet: An Efficient and Accurate Network for CMR Segmentation in Duchenne Muscular Dystrophy
 </h1>
+
+<p align="center">
+  <strong>Yayu Wang<sup>1</sup>, Jiayan Chen<sup>2</sup>, Yulu Zhao<sup>2</sup>, Shiwen Wu<sup>1,*</sup></strong><br>
+    <strong><sup>1</sup>Affiliated Hospital of Qinghai University, Xining, China</strong><br>
+    <strong><sup>2</sup>Qinghai University, Beijing, China</strong><br>
+    
+  
+  <a href="">ArXiv</a> | <a href="https://chenjiayan-qhu.github.io/ADD-UNet/">Demo</a>
 
 
 ## 📜 Abstract
