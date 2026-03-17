@@ -3,7 +3,7 @@
   <img src="files/logo.png" alt="Logo" width="200"/>
 </p>
 
-
+<div align="center">
 <h1 align="center">
 ADD-UNet: An Efficient and Accurate Network for CMR Segmentation in Duchenne Muscular Dystrophy
 </h1>
@@ -15,7 +15,7 @@ ADD-UNet: An Efficient and Accurate Network for CMR Segmentation in Duchenne Mus
     
   
   <a href="">ArXiv</a> | <a href="https://chenjiayan-qhu.github.io/ADD-UNet/">Demo</a>
-
+</div>
 
 ## 📜 Abstract
 
